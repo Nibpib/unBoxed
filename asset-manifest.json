@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/unBoxed/static/css/main.caec0e7c.chunk.css",
+    "main.js": "/unBoxed/static/js/main.6f54d7de.chunk.js",
+    "main.js.map": "/unBoxed/static/js/main.6f54d7de.chunk.js.map",
+    "runtime-main.js": "/unBoxed/static/js/runtime-main.53143c27.js",
+    "runtime-main.js.map": "/unBoxed/static/js/runtime-main.53143c27.js.map",
+    "static/js/2.ee8421f6.chunk.js": "/unBoxed/static/js/2.ee8421f6.chunk.js",
+    "static/js/2.ee8421f6.chunk.js.map": "/unBoxed/static/js/2.ee8421f6.chunk.js.map",
+    "index.html": "/unBoxed/index.html",
+    "precache-manifest.61186193a243c4a3c672e23d84a7d3cd.js": "/unBoxed/precache-manifest.61186193a243c4a3c672e23d84a7d3cd.js",
+    "service-worker.js": "/unBoxed/service-worker.js",
+    "static/css/main.caec0e7c.chunk.css.map": "/unBoxed/static/css/main.caec0e7c.chunk.css.map",
+    "static/js/2.ee8421f6.chunk.js.LICENSE.txt": "/unBoxed/static/js/2.ee8421f6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/unBoxed/static/media/berries.e0076eba.jpg",
+    "static/media/logo.png": "/unBoxed/static/media/logo.dd0c7219.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53143c27.js",
+    "static/js/2.ee8421f6.chunk.js",
+    "static/css/main.caec0e7c.chunk.css",
+    "static/js/main.6f54d7de.chunk.js"
+  ]
+}
